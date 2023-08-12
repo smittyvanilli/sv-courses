@@ -26,3 +26,12 @@ current job, I want to gain as much experience as I can creating spreadsheets (i
 
 This course will help me understand financial analysis. I know this is a highly regulated industry and hope to learn the regulations necessary to create my own POS Dashboard and hopefully, database and full application. This is something I always wanted to do. There are many terms I need to know
 that I can putinside the dashboard and POS to do this. This will be an interesting project to do!
+
+4. Drupal From Basics to Advance with 3 Live Projects
+
+## Notes
+
+This is a course I need that I will be using Drupal for a complex booking app project that is needed. Drupal has a more friendly eco-system for
+developers and I want to learn this system for that reason. I will be learning these systems to become an expert in CMS. Later, I intend to master
+web frameworks! And in the future, I am consdiering creating my own CMS / framework for my own projects and will share that on GitHub.
+Please note: This is not to compete with Trongate, Laravel, CakePHP (and so on) web frameworks.
